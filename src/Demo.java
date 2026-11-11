@@ -12,6 +12,10 @@ public class Demo {
         System.out.println(36
         );
 
+        int age = 56;
+        System.out.println("data");
+
+
 
     }
 }
