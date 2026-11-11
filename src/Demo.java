@@ -8,6 +8,10 @@ public class Demo {
         int students= 20 ;
         System.out.println("data");
 
+        int age = 36;
+        System.out.println(36
+        );
+
 
     }
 }
